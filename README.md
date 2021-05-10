@@ -13,7 +13,7 @@ Laravel Eventbrite uses composer to make installation a breeze.
 
 **Install via composer** 
 ``` bash
-composer require marat555/eventbrite
+composer require Amirsorouri00/eventbrite
 ```
 
 
@@ -22,7 +22,7 @@ Add the Laravel Eventbrite service provider to your `config/app.php` file in the
 ```php
 'providers' => [
     // ... other providers
-    Marat555\Eventbrite\EventbriteServiceProvider::class,
+    Amirsorouri00\Eventbrite\EventbriteServiceProvider::class,
 ]
 ```
 
@@ -39,7 +39,7 @@ EVENTBRITE_BASE_URL=https://www.eventbriteapi.com/v3/
 EVENTBRITE_TOKEN=xxxxxxx
 ````
 >You may also publish the config file to `config/eventbrite.pzhp` for editing:
-`php artisan vendor:publish --provider="Marat555\Eventbrite\EventbriteServiceProvider"`
+`php artisan vendor:publish --provider="Amirsorouri00\Eventbrite\EventbriteServiceProvider"`
  
  
 ## Usage
