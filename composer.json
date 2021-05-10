@@ -1,8 +1,8 @@
 {
-  "name": "marat555/eventbrite",
+  "name": "Amirsorouri00/eventbrite",
   "description": "Laravel PHP Facade/Wrapper for the Eventbrite Data API v3",
-  "keywords": ["eventbrite", "api", "event", "laravel", "marat555"],
-  "homepage": "https://github.com/Marat555/eventbrite-api-laravel-wrapper",
+  "keywords": ["eventbrite", "api", "event", "laravel", "Amirsorouri00"],
+  "homepage": "https://github.com/Amirsorouri00/eventbrite-api-laravel-wrapper",
   "license": "MIT",
   "authors": [
     {
@@ -23,21 +23,21 @@
   },
   "autoload": {
     "psr-4": {
-      "Marat555\\Eventbrite\\": "src/"
+      "Amirsorouri00\\Eventbrite\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Marat555\\Eventbrite\\": "tests/"
+      "Amirsorouri00\\Eventbrite\\": "tests/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Marat555\\Eventbrite\\EventbriteServiceProvider"
+        "Amirsorouri00\\Eventbrite\\EventbriteServiceProvider"
       ],
       "aliases": {
-        "Eventbrite": "Marat555\\Eventbrite\\Facades\\Eventbrite"
+        "Eventbrite": "Amirsorouri00\\Eventbrite\\Facades\\Eventbrite"
       }
     }
   }
