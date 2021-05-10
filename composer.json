@@ -27,17 +27,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "Amirsorouri00\\Eventbrite\\": "tests/"
-    }
-  },
-  "extra": {
-    "laravel": {
-      "providers": [
-        "Amirsorouri00\\Eventbrite\\EventbriteServiceProvider"
-      ],
-      "aliases": {
-        "Eventbrite": "Amirsorouri00\\Eventbrite\\Facades\\Eventbrite"
-      }
+      "Amirsorouri00\\Eventbrite\\Test": "tests/"
     }
   }
 }
