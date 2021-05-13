@@ -1,6 +1,6 @@
 <?php
 
-namespace Marat555\Eventbrite\Contracts\Api;
+namespace Amirsorouri00\Eventbrite\Contracts\Api;
 
 use Marat555\Eventbrite\Factories\Entity\Venue as VenueEntity;
 use Marat555\Eventbrite\Factories\HelperEntity\ObjectList;

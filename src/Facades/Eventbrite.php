@@ -1,6 +1,6 @@
 <?php
 
-namespace Marat555\Eventbrite\Facades;
+namespace Amirsorouri00\Eventbrite\Facades;
 
 use Illuminate\Support\Facades\Facade;
 use Marat555\Eventbrite\Contracts\Api\Category;

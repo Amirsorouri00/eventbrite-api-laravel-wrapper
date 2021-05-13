@@ -1,6 +1,6 @@
 <?php
 
-namespace Marat555\Eventbrite\Exceptions;
+namespace Amirsorouri00\Eventbrite\Exceptions;
 
 class HitRateLimitException extends EventbriteErrorException
 {

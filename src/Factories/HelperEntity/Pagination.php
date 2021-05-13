@@ -1,8 +1,8 @@
 <?php
 
-namespace Marat555\Eventbrite\Factories\HelperEntity;
+namespace Amirsorouri00\Eventbrite\Factories\HelperEntity;
 
-use Marat555\Eventbrite\Factories\Entity\AbstractEntity;
+use Amirsorouri00\Eventbrite\Factories\Entity\AbstractEntity;
 
 /**
  * This pagination key gives you information about the number of pages in the result, and how many objects are returned

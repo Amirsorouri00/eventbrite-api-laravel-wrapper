@@ -1,6 +1,6 @@
 <?php
 
-namespace Marat555\Eventbrite\Contracts\Api;
+namespace Amirsorouri00\Eventbrite\Contracts\Api;
 
 /**
  * A more specific category that an event falls into, sitting underneath a category.

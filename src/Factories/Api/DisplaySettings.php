@@ -1,6 +1,6 @@
 <?php
 
-namespace Marat555\Eventbrite\Factories\Api;
+namespace Amirsorouri00\Eventbrite\Factories\Api;
 
 use Marat555\Eventbrite\Factories\Entity\DisplaySettings as DisplaySettingsEntity;
 use Marat555\Eventbrite\Contracts\Api\DisplaySettings as DisplaySettingsInterface;

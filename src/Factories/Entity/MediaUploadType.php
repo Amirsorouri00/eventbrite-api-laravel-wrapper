@@ -1,6 +1,6 @@
 <?php
 
-namespace Marat555\Eventbrite\Factories\Entity;
+namespace Amirsorouri00\Eventbrite\Factories\Entity;
 
 class MediaUploadType extends AbstractEntity
 {

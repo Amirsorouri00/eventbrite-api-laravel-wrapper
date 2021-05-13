@@ -1,6 +1,6 @@
 <?php
 
-namespace Marat555\Eventbrite\Tests;
+namespace Amirsorouri00\Eventbrite\Tests;
 
 class EventbriteTest extends TestCase
 {

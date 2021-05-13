@@ -1,6 +1,6 @@
 <?php
 
-namespace Marat555\Eventbrite\Contracts;
+namespace Amirsorouri00\Eventbrite\Contracts;
 
 /**
  * Eventbrite API wrapper for Laravel

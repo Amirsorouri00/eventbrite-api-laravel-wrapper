@@ -1,6 +1,6 @@
 <?php
 
-namespace Marat555\Eventbrite\Factories\Api;
+namespace Amirsorouri00\Eventbrite\Factories\Api;
 
 use Marat555\Eventbrite\Factories\Entity\User as UserEntity;
 use Marat555\Eventbrite\Contracts\Api\User as UserInterface;

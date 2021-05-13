@@ -1,6 +1,6 @@
 <?php
 
-namespace Marat555\Eventbrite;
+namespace Amirsorouri00\Eventbrite;
 
 use Marat555\Eventbrite\Factories\Api\DisplaySettings;
 use Marat555\Eventbrite\Factories\Api\Format;

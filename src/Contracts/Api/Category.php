@@ -1,6 +1,6 @@
 <?php
 
-namespace Marat555\Eventbrite\Contracts\Api;
+namespace Amirsorouri00\Eventbrite\Contracts\Api;
 
 /**
  * An overarching category that an event falls into (vertical). Examples are “Music”, and “Endurance”.

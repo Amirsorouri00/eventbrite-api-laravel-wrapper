@@ -1,6 +1,6 @@
 <?php
 
-namespace Marat555\Eventbrite\Contracts\Api;
+namespace Amirsorouri00\Eventbrite\Contracts\Api;
 
 /**
  * An object representing a single webhook associated with the account.

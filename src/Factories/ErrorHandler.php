@@ -1,6 +1,6 @@
 <?php
 
-namespace Marat555\Eventbrite\Factories;
+namespace Amirsorouri00\Eventbrite\Factories;
 
 use Illuminate\Http\Response;
 use Psr\Http\Message\RequestInterface;
