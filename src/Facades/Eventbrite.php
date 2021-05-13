@@ -3,16 +3,16 @@
 namespace Amirsorouri00\Eventbrite\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use Marat555\Eventbrite\Contracts\Api\Category;
-use Marat555\Eventbrite\Contracts\Api\DisplaySettings;
-use Marat555\Eventbrite\Contracts\Api\Format;
-use Marat555\Eventbrite\Contracts\Api\Media;
-use Marat555\Eventbrite\Contracts\Api\Subcategory;
-use Marat555\Eventbrite\Contracts\Api\User;
-use Marat555\Eventbrite\Contracts\Api\Venue;
-use Marat555\Eventbrite\Contracts\Api\Webhook;
-use Marat555\Eventbrite\Contracts\Client;
-use Marat555\Eventbrite\Factories\Entity\Event;
+use Amirsorouri00\Eventbrite\Contracts\Api\Category;
+use Amirsorouri00\Eventbrite\Contracts\Api\DisplaySettings;
+use Amirsorouri00\Eventbrite\Contracts\Api\Format;
+use Amirsorouri00\Eventbrite\Contracts\Api\Media;
+use Amirsorouri00\Eventbrite\Contracts\Api\Subcategory;
+use Amirsorouri00\Eventbrite\Contracts\Api\User;
+use Amirsorouri00\Eventbrite\Contracts\Api\Venue;
+use Amirsorouri00\Eventbrite\Contracts\Api\Webhook;
+use Amirsorouri00\Eventbrite\Contracts\Client;
+use Amirsorouri00\Eventbrite\Factories\Entity\Event;
 
 /**
  * @method static void setClient(Client $client)

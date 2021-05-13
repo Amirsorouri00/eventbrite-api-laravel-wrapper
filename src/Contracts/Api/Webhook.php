@@ -24,16 +24,16 @@ interface Webhook
     /**
      * Send create request to API
      *
-     * @param \Marat555\Eventbrite\Factories\Entity\Webhook $webhook
-     * @return \Marat555\Eventbrite\Factories\Entity\Webhook
+     * @param \Amirsorouri00\Eventbrite\Factories\Entity\Webhook $webhook
+     * @return \Amirsorouri00\Eventbrite\Factories\Entity\Webhook
      */
-    public function create(\Marat555\Eventbrite\Factories\Entity\Webhook $webhook);
+    public function create(\Amirsorouri00\Eventbrite\Factories\Entity\Webhook $webhook);
 
     /**
      * Delete a webhook
      *
      * @param $id
-     * @return \Marat555\Eventbrite\Factories\Entity\Webhook
+     * @return \Amirsorouri00\Eventbrite\Factories\Entity\Webhook
      */
     public function delete($id);
 }

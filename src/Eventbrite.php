@@ -2,16 +2,16 @@
 
 namespace Amirsorouri00\Eventbrite;
 
-use Marat555\Eventbrite\Factories\Api\DisplaySettings;
-use Marat555\Eventbrite\Factories\Api\Format;
-use Marat555\Eventbrite\Factories\Api\Media;
-use Marat555\Eventbrite\Factories\Api\Venue;
-use Marat555\Eventbrite\Factories\Client;
-use Marat555\Eventbrite\Factories\Api\Category;
-use Marat555\Eventbrite\Factories\Api\Subcategory;
-use Marat555\Eventbrite\Factories\Api\Webhook;
-use Marat555\Eventbrite\Factories\Api\Event;
-use Marat555\Eventbrite\Factories\Api\User;
+use Amirsorouri00\Eventbrite\Factories\Api\DisplaySettings;
+use Amirsorouri00\Eventbrite\Factories\Api\Format;
+use Amirsorouri00\Eventbrite\Factories\Api\Media;
+use Amirsorouri00\Eventbrite\Factories\Api\Venue;
+use Amirsorouri00\Eventbrite\Factories\Client;
+use Amirsorouri00\Eventbrite\Factories\Api\Category;
+use Amirsorouri00\Eventbrite\Factories\Api\Subcategory;
+use Amirsorouri00\Eventbrite\Factories\Api\Webhook;
+use Amirsorouri00\Eventbrite\Factories\Api\Event;
+use Amirsorouri00\Eventbrite\Factories\Api\User;
 
 /**
  * Eventbrite API wrapper for Laravel

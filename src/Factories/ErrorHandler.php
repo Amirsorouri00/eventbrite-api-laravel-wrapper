@@ -5,18 +5,18 @@ namespace Amirsorouri00\Eventbrite\Factories;
 use Illuminate\Http\Response;
 use Psr\Http\Message\RequestInterface;
 use Psr\Http\Message\ResponseInterface;
-use Marat555\Eventbrite\Exceptions\NotFoundException;
-use Marat555\Eventbrite\Exceptions\EventbriteErrorException;
-use Marat555\Eventbrite\Exceptions\MethodNotAllowedException;
-use Marat555\Eventbrite\Exceptions\BadPageException;
-use Marat555\Eventbrite\Exceptions\ExpansionFailedException;
-use Marat555\Eventbrite\Exceptions\HitRateLimitException;
-use Marat555\Eventbrite\Exceptions\InternalErrorException;
-use Marat555\Eventbrite\Exceptions\InvalidAuthException;
-use Marat555\Eventbrite\Exceptions\InvalidAuthHeaderException;
-use Marat555\Eventbrite\Exceptions\InvalidBatchException;
-use Marat555\Eventbrite\Exceptions\NoAuthException;
-use Marat555\Eventbrite\Exceptions\NotAuthorizedException;
+use Amirsorouri00\Eventbrite\Exceptions\NotFoundException;
+use Amirsorouri00\Eventbrite\Exceptions\EventbriteErrorException;
+use Amirsorouri00\Eventbrite\Exceptions\MethodNotAllowedException;
+use Amirsorouri00\Eventbrite\Exceptions\BadPageException;
+use Amirsorouri00\Eventbrite\Exceptions\ExpansionFailedException;
+use Amirsorouri00\Eventbrite\Exceptions\HitRateLimitException;
+use Amirsorouri00\Eventbrite\Exceptions\InternalErrorException;
+use Amirsorouri00\Eventbrite\Exceptions\InvalidAuthException;
+use Amirsorouri00\Eventbrite\Exceptions\InvalidAuthHeaderException;
+use Amirsorouri00\Eventbrite\Exceptions\InvalidBatchException;
+use Amirsorouri00\Eventbrite\Exceptions\NoAuthException;
+use Amirsorouri00\Eventbrite\Exceptions\NotAuthorizedException;
 
 class ErrorHandler
 {

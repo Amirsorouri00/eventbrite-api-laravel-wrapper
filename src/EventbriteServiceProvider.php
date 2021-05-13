@@ -3,7 +3,7 @@
 namespace Amirsorouri00\Eventbrite;
 
 use Illuminate\Support\ServiceProvider;
-use Marat555\Eventbrite\Factories\Client;
+use Amirsorouri00\Eventbrite\Factories\Client;
 
 class EventbriteServiceProvider extends ServiceProvider
 {

@@ -4,7 +4,7 @@ namespace Amirsorouri00\Eventbrite\Factories;
 
 use GuzzleHttp\HandlerStack;
 use GuzzleHttp\Client as HttpClient;
-use \Marat555\Eventbrite\Contracts\Client as ClientInterface;
+use \Amirsorouri00\Eventbrite\Contracts\Client as ClientInterface;
 use Illuminate\Support\Arr;
 
 /**

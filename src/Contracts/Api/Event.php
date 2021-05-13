@@ -2,8 +2,8 @@
 
 namespace Amirsorouri00\Eventbrite\Contracts\Api;
 
-use Marat555\Eventbrite\Factories\Entity\Event as EventEntity;
-use Marat555\Eventbrite\Factories\HelperEntity\ObjectList;
+use Amirsorouri00\Eventbrite\Factories\Entity\Event as EventEntity;
+use Amirsorouri00\Eventbrite\Factories\HelperEntity\ObjectList;
 
 /**
  * The Event object represents an Eventbrite Event. An Event is owned by one Organization..

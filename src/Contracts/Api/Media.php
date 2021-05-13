@@ -2,9 +2,9 @@
 
 namespace Amirsorouri00\Eventbrite\Contracts\Api;
 
-use Marat555\Eventbrite\Factories\Entity\DisplaySettings as DisplaySettingsEntity;
-use Marat555\Eventbrite\Factories\Entity\MediaUploadType;
-use Marat555\Eventbrite\Factories\HelperEntity\ObjectList;
+use Amirsorouri00\Eventbrite\Factories\Entity\DisplaySettings as DisplaySettingsEntity;
+use Amirsorouri00\Eventbrite\Factories\Entity\MediaUploadType;
+use Amirsorouri00\Eventbrite\Factories\HelperEntity\ObjectList;
 
 /**
  * Media api interface
