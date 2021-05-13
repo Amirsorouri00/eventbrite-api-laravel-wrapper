@@ -2,10 +2,10 @@
 
 namespace Amirsorouri00\Eventbrite\Factories\Api;
 
-use Marat555\Eventbrite\Factories\Entity\Media as MediaEntity;
-use Marat555\Eventbrite\Contracts\Api\Media as MediaInterface;
-use Marat555\Eventbrite\Factories\Entity\MediaUpload;
-use Marat555\Eventbrite\Factories\Entity\MediaUploadType;
+use Amirsorouri00\Eventbrite\Factories\Entity\Media as MediaEntity;
+use Amirsorouri00\Eventbrite\Contracts\Api\Media as MediaInterface;
+use Amirsorouri00\Eventbrite\Factories\Entity\MediaUpload;
+use Amirsorouri00\Eventbrite\Factories\Entity\MediaUploadType;
 
 /**
  * Eventbrite API wrapper for Laravel

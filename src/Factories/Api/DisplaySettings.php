@@ -2,9 +2,9 @@
 
 namespace Amirsorouri00\Eventbrite\Factories\Api;
 
-use Marat555\Eventbrite\Factories\Entity\DisplaySettings as DisplaySettingsEntity;
-use Marat555\Eventbrite\Contracts\Api\DisplaySettings as DisplaySettingsInterface;
-use Marat555\Eventbrite\Factories\HelperEntity\Pagination;
+use Amirsorouri00\Eventbrite\Factories\Entity\DisplaySettings as DisplaySettingsEntity;
+use Amirsorouri00\Eventbrite\Contracts\Api\DisplaySettings as DisplaySettingsInterface;
+use Amirsorouri00\Eventbrite\Factories\HelperEntity\Pagination;
 
 /**
  * Eventbrite API wrapper for Laravel

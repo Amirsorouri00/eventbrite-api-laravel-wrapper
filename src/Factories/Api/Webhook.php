@@ -2,8 +2,8 @@
 
 namespace Amirsorouri00\Eventbrite\Factories\Api;
 
-use Marat555\Eventbrite\Factories\Entity\Webhook as WebhookEntity;
-use Marat555\Eventbrite\Contracts\Api\Webhook as WebhookInterface;
+use Amirsorouri00\Eventbrite\Factories\Entity\Webhook as WebhookEntity;
+use Amirsorouri00\Eventbrite\Contracts\Api\Webhook as WebhookInterface;
 
 /**
  * Eventbrite API wrapper for Laravel

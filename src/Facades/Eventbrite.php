@@ -36,6 +36,6 @@ class Eventbrite extends Facade
      */
     protected static function getFacadeAccessor()
     {
-        return 'Marat555\Eventbrite\Eventbrite';
+        return 'Amirsorouri00\Eventbrite\Eventbrite';
     }
 }

@@ -2,10 +2,10 @@
 
 namespace Amirsorouri00\Eventbrite\Factories\Api;
 
-use Marat555\Eventbrite\Factories\Entity\Event as EventEntity;
-use Marat555\Eventbrite\Contracts\Api\Event as EventInterface;
-use Marat555\Eventbrite\Factories\HelperEntity\Pagination;
-use Marat555\Eventbrite\Factories\HelperEntity\ObjectList;
+use Amirsorouri00\Eventbrite\Factories\Entity\Event as EventEntity;
+use Amirsorouri00\Eventbrite\Contracts\Api\Event as EventInterface;
+use Amirsorouri00\Eventbrite\Factories\HelperEntity\Pagination;
+use Amirsorouri00\Eventbrite\Factories\HelperEntity\ObjectList;
 
 /**
  * Eventbrite API wrapper for Laravel

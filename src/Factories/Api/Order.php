@@ -2,10 +2,10 @@
 
 namespace Amirsorouri00\Eventbrite\Factories\Api;
 
-use Marat555\Eventbrite\Factories\Entity\Order as OrderEntity;
-use Marat555\Eventbrite\Contracts\Api\Order as OrderInterface;
-use Marat555\Eventbrite\Factories\HelperEntity\Pagination;
-use Marat555\Eventbrite\Factories\HelperEntity\ObjectList;
+use Amirsorouri00\Eventbrite\Factories\Entity\Order as OrderEntity;
+use Amirsorouri00\Eventbrite\Contracts\Api\Order as OrderInterface;
+use Amirsorouri00\Eventbrite\Factories\HelperEntity\Pagination;
+use Amirsorouri00\Eventbrite\Factories\HelperEntity\ObjectList;
 
 /**
  * Eventbrite API wrapper for Laravel

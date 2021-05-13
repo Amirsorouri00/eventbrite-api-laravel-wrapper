@@ -2,8 +2,8 @@
 
 namespace Amirsorouri00\Eventbrite\Factories\Api;
 
-use Marat555\Eventbrite\Factories\Entity\User as UserEntity;
-use Marat555\Eventbrite\Contracts\Api\User as UserInterface;
+use Amirsorouri00\Eventbrite\Factories\Entity\User as UserEntity;
+use Amirsorouri00\Eventbrite\Contracts\Api\User as UserInterface;
 
 /**
  * Eventbrite API wrapper for Laravel
